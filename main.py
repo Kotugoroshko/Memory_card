@@ -1,7 +1,7 @@
 #для начала скопируй сюда интерфейс "Умных заметок" и проверь его работу
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QLabel, QListWidget, QLineEdit, QTextEdit, QInputDialog, QHBoxLayout, QVBoxLayout, QFormLayout
- 
+#мій перший комент
 import json
 
 app = QApplication([])
