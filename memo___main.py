@@ -8,7 +8,7 @@ from memo___data import *
 from memo___main_layout import *
 from memo___edit_layout import *
 
-
+мяавиачвип пач 
 
 card_width, card_height = 600, 500 # розміри вікна "карточка"
 main_width, main_height = 1000, 450 #розміри головного вікна
